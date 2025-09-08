@@ -23,9 +23,9 @@ Passionate about building applications across web, mobile, and AI.
 ---
 
 ## 📈 GitHub Stats
-![Laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaurinKrengel&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurinKrengel&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaurinKrengel&theme=radical)  
+![Laurin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dd-krengel&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dd-krengel&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dd-krengel&theme=radical)  
 
 ---
 
