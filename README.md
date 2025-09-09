@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Laurin Krengel  
+# 👋 Hi, I'm Laurin  
 
 💻 **Full-Stack Developer**  
 Passionate about building applications across **web**, **mobile**, and **AI**.  
